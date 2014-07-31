@@ -26,7 +26,7 @@ void draw() {
 void mousePressed() {
  clear();
  background(255);
- img = (int)random(0, 3);
+ img = (int)random(0, 4);
  redraw();
 }
 
